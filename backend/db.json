@@ -1,0 +1,54 @@
+{
+    "users": {
+        
+    },
+    "reading": {
+
+    },
+    "categories": [
+        {
+            "id": 1,
+            "title": "Ação"
+        },
+        {
+            "id": 2,
+            "title": "Aventura"
+        },
+        {
+            "id": 3,
+            "title": "Conto"
+        },
+        {
+            "id": 4,
+            "title": "Drama"
+        },
+        {
+            "id": 5,
+            "title": "Ficção"
+        },
+        {
+            "id": 6,
+            "title": "Horror"
+        },
+        {
+            "id": 7,
+            "title": "HQ"
+        },
+        {
+            "id": 8,
+            "title": "Mangá"
+        },
+        {
+            "id": 9,
+            "title": "Poesia"
+        },
+        {
+            "id": 10,
+            "title": "Romance"
+        },
+        {
+            "id": 11,
+            "title": "Suspense"
+        }
+    ]
+}  

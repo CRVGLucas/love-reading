@@ -1,0 +1,32 @@
+.search {
+    width: 3rem;
+    background-color: var(--dark-gray);
+    border: 1px solid var(--gold);
+}
+
+.search:hover{
+    background-color: var(--gray);
+    border: 1px solid var(--light-gold);
+}
+
+button {
+    height: 2.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 1rem;
+}
+
+.success {
+    background: var(--green);
+    color: white;
+    border: none;
+}
+
+.large {
+    width: 40%;
+}
+
+.danger {
+ background: var(--red);
+ color: white;
+}

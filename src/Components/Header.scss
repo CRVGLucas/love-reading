@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: var(--dark-gray);
+    color: var(--light-gold);
+    .form{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-items: center;
+    }
+}
+
